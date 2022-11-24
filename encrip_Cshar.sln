@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encrip_Cshar", "encrip_Cshar\encrip_Cshar.csproj", "{6C5D9690-59F3-403A-9AFA-5AF1A569995C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C5D9690-59F3-403A-9AFA-5AF1A569995C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5D9690-59F3-403A-9AFA-5AF1A569995C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5D9690-59F3-403A-9AFA-5AF1A569995C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5D9690-59F3-403A-9AFA-5AF1A569995C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBA96996-6DDA-4043-B9F4-16238DDE6505}
+	EndGlobalSection
+EndGlobal
