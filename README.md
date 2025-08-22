@@ -7,3 +7,7 @@ the program are in spanish but it is easy and intuitive to use
 
 the program encrip the float text using the method XOR using a key text
 ![Imagen Alt](https://github.com/FierSet/encriptaci-n-xor/blob/3275a2e8c6701a8527b9bc9ca21db34072c610f0/image.png)
+
+You can select a file and add a key text to encyphed the file
+
+![Imagen Alt](https://github.com/FierSet/encriptaci-n-xor/blob/3dc8a9be21070c70885a0c2f132b712eaa53c7ba/image.png)
