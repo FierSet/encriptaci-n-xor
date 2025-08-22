@@ -1,3 +1,3 @@
-# encriptaci-n-xor
-Programa que encripta con el método xor con interface grafica.
-El programa utiliza hilos y encripta en 8 bits
+# cypher xo
+This program need dotnet 5.0 to works.
+the program encrip the float text using the method XOR using a key text
