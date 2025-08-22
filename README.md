@@ -1,4 +1,6 @@
-# cypher xo
+# cypher xor
+Made in C#, encript the information using the method XOR.
+
 This program need dotnet 5.0 to works.
 
 the program are in spanish but it is easy and intuitive to use
