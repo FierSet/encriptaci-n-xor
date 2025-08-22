@@ -11,3 +11,7 @@ the program encrip the float text using the method XOR using a key text
 You can select a file and add a key text to encyphed the file
 
 ![Imagen Alt](https://github.com/FierSet/encriptaci-n-xor/blob/3dc8a9be21070c70885a0c2f132b712eaa53c7ba/image.png)
+
+![Imagen Alt](https://github.com/FierSet/encriptaci-n-xor/blob/ad2217c6be5b7df14731a384adbb77bf7f3a6d01/image.png)
+
+Then you can sanve the encripted file.
